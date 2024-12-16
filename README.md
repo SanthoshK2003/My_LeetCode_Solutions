@@ -34,6 +34,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
