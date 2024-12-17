@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +71,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
