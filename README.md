@@ -62,4 +62,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
