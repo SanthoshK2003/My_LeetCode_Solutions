@@ -16,6 +16,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
