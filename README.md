@@ -17,6 +17,7 @@
 | [0002-add-two-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
