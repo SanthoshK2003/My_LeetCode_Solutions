@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -17,6 +18,7 @@
 | [0002-add-two-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
 |  |
@@ -88,6 +90,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
