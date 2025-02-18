@@ -19,6 +19,7 @@
 | [0007-reverse-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
