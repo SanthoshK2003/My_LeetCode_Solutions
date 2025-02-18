@@ -17,6 +17,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
