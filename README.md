@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
 |  |
@@ -73,6 +74,7 @@
 | [0002-add-two-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
