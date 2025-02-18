@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -22,6 +23,7 @@
 | [0050-powx-n](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Matrix
@@ -83,12 +85,14 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -106,6 +110,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -147,6 +152,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 ## Memoization
 |  |
