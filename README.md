@@ -161,6 +161,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1258-article-views-i) |
