@@ -16,6 +16,7 @@
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Math
 |  |
@@ -180,4 +181,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
