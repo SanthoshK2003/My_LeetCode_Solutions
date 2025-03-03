@@ -117,6 +117,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
@@ -139,6 +140,7 @@
 | [0020-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
