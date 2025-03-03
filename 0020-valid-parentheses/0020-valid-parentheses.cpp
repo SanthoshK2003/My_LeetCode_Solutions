@@ -3,7 +3,7 @@ public:
     bool isValid(string s) {
         stack<char> stack;
 
-    for (const char c : s)
+    for (char c : s)
       if (c == '(')
         stack.push(')');
       else if (c == '{')
