@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -107,6 +108,7 @@
 | [0141-linked-list-cycle](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -187,6 +189,7 @@
 | [0018-4sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 ## Memoization
