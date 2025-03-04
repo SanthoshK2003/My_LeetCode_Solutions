@@ -113,6 +113,7 @@
 | [0169-majority-element](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -152,6 +153,7 @@
 | [0022-generate-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
@@ -196,6 +198,7 @@
 | [0075-sort-colors](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 ## Memoization
