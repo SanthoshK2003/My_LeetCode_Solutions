@@ -147,6 +147,7 @@
 | [0136-single-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0338-counting-bits) |
 ## String
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
