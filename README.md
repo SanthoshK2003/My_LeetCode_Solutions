@@ -163,6 +163,7 @@
 | [0242-valid-anagram](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
@@ -173,6 +174,7 @@
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
