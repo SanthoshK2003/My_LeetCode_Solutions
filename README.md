@@ -163,6 +163,7 @@
 | [0242-valid-anagram](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [0011-container-with-most-water](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Trie
 |  |
 | ------- |
