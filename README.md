@@ -152,6 +152,7 @@
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [1054-complement-of-base-10-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 ## String
 |  |
 | ------- |
