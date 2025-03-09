@@ -31,6 +31,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [0242-valid-anagram](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
