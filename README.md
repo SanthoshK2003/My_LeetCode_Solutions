@@ -26,6 +26,7 @@
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -148,6 +149,7 @@
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
 |  |
@@ -208,6 +210,7 @@
 | [0011-container-with-most-water](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
@@ -220,6 +223,7 @@
 | [0242-valid-anagram](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Memoization
 |  |
