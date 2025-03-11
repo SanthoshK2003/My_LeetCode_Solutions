@@ -5,7 +5,7 @@ public:
         sort(nums.begin(),nums.end());
         int i=nums[n-1];
         int j=nums[n-2];
-        int ans =(i-1)*(j-1);
-        return ans;
+        return (i-1)*(j-1);
+        
     }
 };
