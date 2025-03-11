@@ -34,6 +34,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1651-shuffle-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Math
 |  |
@@ -176,6 +177,7 @@
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1651-shuffle-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1651-shuffle-string) |
 ## Stack
 |  |
 | ------- |
