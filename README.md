@@ -24,6 +24,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
