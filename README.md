@@ -140,6 +140,7 @@
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1848-sum-of-unique-elements](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1848-sum-of-unique-elements) |
+| [1904-second-largest-digit-in-a-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1651-shuffle-string) |
+| [1904-second-largest-digit-in-a-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 ## Stack
 |  |
 | ------- |
