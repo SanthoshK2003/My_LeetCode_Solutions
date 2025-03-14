@@ -42,6 +42,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
+| [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |
