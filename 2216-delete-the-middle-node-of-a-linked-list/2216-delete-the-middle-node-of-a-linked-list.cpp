@@ -15,7 +15,7 @@ public:
             return NULL;
         ListNode* slow=head;
         ListNode* fast=head->next->next;
-        while( fast!=NULL  and fast->next!=NULL)
+        while(fast!=NULL and fast->next!=NULL  )
         {
             slow=slow->next;
             fast=fast->next->next;
