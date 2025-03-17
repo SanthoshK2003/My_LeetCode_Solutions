@@ -61,6 +61,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2556-convert-the-temperature](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2556-convert-the-temperature) |
 ## Matrix
 |  |
 | ------- |
