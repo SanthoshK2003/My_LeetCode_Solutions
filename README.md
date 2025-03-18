@@ -43,6 +43,7 @@
 | [1848-sum-of-unique-elements](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2690-house-robber-iv](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 ## Math
@@ -149,6 +150,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1848-sum-of-unique-elements](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
@@ -199,6 +201,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1651-shuffle-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Memoization
 |  |
