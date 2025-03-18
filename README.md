@@ -78,6 +78,7 @@
 | [0112-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0112-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Linked List
 |  |
 | ------- |
