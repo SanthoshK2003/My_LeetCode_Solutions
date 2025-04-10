@@ -28,6 +28,7 @@
 | [0485-max-consecutive-ones](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1293-three-consecutive-odds](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -136,6 +137,7 @@
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2690-house-robber-iv](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 ## Hash Table
