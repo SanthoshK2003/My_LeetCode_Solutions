@@ -29,6 +29,7 @@
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1293-three-consecutive-odds](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0898-transpose-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Tree
@@ -230,6 +232,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Monotonic Stack
 |  |
