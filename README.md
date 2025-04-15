@@ -33,6 +33,7 @@
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [0966-binary-subarrays-with-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0978-valid-mountain-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -186,6 +187,7 @@
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2561-number-of-distinct-averages](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Bit Manipulation
@@ -270,6 +272,7 @@
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
