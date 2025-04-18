@@ -51,6 +51,7 @@
 | [1950-sign-of-the-product-of-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
+| [2551-apply-operations-to-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2561-number-of-distinct-averages) |
 | [2690-house-robber-iv](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -194,6 +195,7 @@
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2561-number-of-distinct-averages) |
 ## Bit Manipulation
 |  |
@@ -244,6 +246,7 @@
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
