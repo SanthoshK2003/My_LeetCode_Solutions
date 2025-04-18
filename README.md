@@ -223,6 +223,7 @@
 | [1651-shuffle-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1651-shuffle-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
+| [3447-clear-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
