@@ -54,6 +54,7 @@
 | [2690-house-robber-iv](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3429-special-array-i) |
+| [3723-sum-of-good-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3723-sum-of-good-numbers) |
 ## Math
 |  |
 | ------- |
