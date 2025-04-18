@@ -57,6 +57,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3429-special-array-i) |
 | [3723-sum-of-good-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3723-sum-of-good-numbers) |
+| [3778-transform-array-by-parity](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2561-number-of-distinct-averages) |
+| [3778-transform-array-by-parity](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Memoization
 |  |
 | ------- |
@@ -329,6 +331,7 @@
 | [0169-majority-element](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1848-sum-of-unique-elements](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1848-sum-of-unique-elements) |
+| [3778-transform-array-by-parity](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Trie
 |  |
 | ------- |
