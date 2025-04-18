@@ -47,6 +47,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
