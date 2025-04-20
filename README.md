@@ -56,6 +56,7 @@
 | [2690-house-robber-iv](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2690-house-robber-iv) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3429-special-array-i) |
+| [3533-snake-in-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3533-snake-in-matrix) |
 | [3723-sum-of-good-numbers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3778-transform-array-by-parity) |
 ## Math
@@ -231,6 +232,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3447-clear-digits) |
+| [3533-snake-in-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3533-snake-in-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [2058-concatenation-of-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3447-clear-digits) |
+| [3533-snake-in-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3533-snake-in-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
