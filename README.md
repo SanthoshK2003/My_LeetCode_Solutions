@@ -91,6 +91,7 @@
 | [0110-balanced-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -100,6 +101,7 @@
 | [0110-balanced-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -113,6 +115,7 @@
 | [0110-balanced-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Linked List
@@ -233,6 +236,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0682-baseball-game) |
