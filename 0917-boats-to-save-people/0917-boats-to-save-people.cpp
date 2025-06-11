@@ -9,9 +9,14 @@ public:
             if(people[low]+people[high]<=limit)
             {
                 low++;
+                high--;
+                count++;
             }
-            high--;
-            count++;
+            else
+            {
+                high--;
+                count++;
+            }
         }
         return count;
     }
