@@ -69,6 +69,7 @@
 | [0029-divide-two-integers](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -266,6 +267,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -351,4 +353,8 @@
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
