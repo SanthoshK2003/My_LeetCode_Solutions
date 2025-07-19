@@ -38,6 +38,7 @@
 | [0978-valid-mountain-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -109,6 +110,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0874-backspace-string-compare](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1651-shuffle-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1651-shuffle-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
@@ -355,6 +358,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Interactive
 |  |
 | ------- |
