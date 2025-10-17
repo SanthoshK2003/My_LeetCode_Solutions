@@ -211,6 +211,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2561-number-of-distinct-averages) |
@@ -244,6 +245,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1651-shuffle-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1651-shuffle-string) |
+| [1894-merge-strings-alternately](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2502-sort-the-people](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/SanthoshK2003/My_LeetCode_Solutions/tree/master/3447-clear-digits) |
